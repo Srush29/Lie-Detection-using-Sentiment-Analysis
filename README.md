@@ -1,9 +1,10 @@
 # Machine-Learning
 
-# Text Mining
+Text Mining
+
 # Lie Detection using Sentiment Analysis
 
-# Scenario: 
+Scenario: 
 
  Machine learning algorithms can figure out whether a person is lying or not.
  To test this claim, we have collected a collection of customer reviews, some are true some are fake, and you are going to test
